@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![flopgov's Stats](https://github-readme-stats.vercel.app/api?username=flopgov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![flopgov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flopgov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![flopgov's Stats](https://github-readme-stats.vercel.app/api?username=flopgov&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) 
+![flopgov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flopgov&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
